@@ -1,0 +1,265 @@
+@media (360px <=width <=500px){
+    li{
+        padding:10px;
+        font-size: 3vh;
+        margin: 0px;
+    }
+    
+ul.nav {
+    list-style: none;
+    display: block;
+    padding: 30px;
+    margin: 0px;
+    background-color: rgb(129, 129, 206);
+}
+
+div.button{
+    position: absolute;
+    top: 7%;
+    left:50%;
+    display: block;
+}
+#btn1{
+    margin: 0px;
+    font-size: 2.3vh;
+    padding: 8px;
+}
+#btn2{
+    position: absolute;
+    top: 110%;
+    left: 20%;
+    margin: 0px;
+    font-size: 2.3vh;
+    padding: 8px;
+}
+
+h1{
+    position: absolute;
+    left: 6%;
+    top: 30%;
+    font-size: 2.8vh;
+}
+
+body{margin: 0px;}
+}
+
+@media (501px <=width <=699px){
+    li{
+        padding:15px;
+        font-size: 3.5vh;
+        margin: 0px;
+    }
+    
+ul.nav {
+    list-style: none;
+    display: block;
+    padding: 50px;
+    margin: 0px;
+    background-color: rgb(129, 129, 206);
+}
+
+div.button{
+    position: absolute;
+    top: 10%;
+    left:58%;
+    display: block;
+}
+#btn1{
+    margin: 0px;
+    font-size: 2.5vh;
+    padding: 10px;
+}
+#btn2{
+    position: absolute;
+    top: 110%;
+    left: 20%;
+    margin: 0px;
+    font-size: 2.5vh;
+    padding: 10px;
+}
+
+h1{
+    position: absolute;
+    left: 10%;
+    top: 35%;
+    font-size: 3.5vh;
+}
+
+body{margin: 0px;}
+}
+
+@media (700px <=width <=920px){
+    li{
+        padding:20px;
+        font-size: 3.5vh;
+        margin: 0px;
+    }
+    
+ul.nav {
+    list-style: none;
+    display: block;
+    padding: 60px;
+    margin: 0px;
+    background-color: rgb(129, 129, 206);
+}
+
+div.button{
+    position: absolute;
+    top: 10%;
+    left:63%;
+    display: block;
+}
+#btn1{
+    margin: 0px;
+    font-size: 3vh;
+    padding: 20px;
+}
+#btn2{
+    position: absolute;
+    top: 120%;
+    left: 25%;
+    margin: 0px;
+    font-size: 3vh;
+    padding: 20px;
+}
+
+h1{
+    position: absolute;
+    left: 14%;
+    top: 40%;
+    font-size: 4.5vh;
+}
+
+body{margin: 0px;}
+}
+
+@media (921px <=width <=1120px ){
+    li{
+        padding:20px;
+        font-size: 4vh;
+        margin: 0px;
+    }
+    
+ul.nav {
+    list-style: none;
+    display: block;
+    padding: 90px;
+    margin: 0px;
+    background-color: rgb(129, 129, 206);
+}
+
+div.button{
+    position: absolute;
+    top: 15%;
+    left:60%;
+    display: block;
+    padding: 10px;
+}
+#btn1{
+    margin: 0px;
+    font-size: 3vh;
+    padding: 20px;
+}
+#btn2{
+    position: absolute;
+    top: 110%;
+    left: 28%;
+    margin: 0px;
+    font-size: 3vh;
+    padding: 20px;
+}
+
+h1{
+    position: absolute;
+    left: 25%;
+    top: 45%;
+    font-size: 4.5vh;
+}
+
+body{margin: 0px;}
+}
+
+@media (1121px <=width <=1320px){
+    li{
+        padding:15px;
+        font-size: 4vh;
+        margin: 0px;
+    }
+    
+ul.nav {
+    list-style: none;
+    display: flex;
+    padding: 60px;
+    margin-left: 50px;
+    background-color: rgb(129, 129, 206);
+}
+
+div.button{
+    position: absolute;
+    top: 7%;
+    left:65%;
+    display: block;
+}
+#btn1{
+    margin: 0px;
+    font-size: 3vh;
+    padding: 10px;
+}
+#btn2{
+    margin: 0px;
+    font-size: 3vh;
+    padding: 10px;
+}
+
+h1{
+    position: absolute;
+    left: 22%;
+    top: 35%;
+    font-size: 5vh;
+}
+
+body{margin: 0px;}
+}
+
+@media (1321px <=width <=1440px){
+    li{
+        padding:20px;
+        font-size: 5vh;
+        margin: 0px;
+    }
+    
+ul.nav {
+    list-style: none;
+    display: flex;
+    background-color: rgb(129, 129, 206);
+    margin-left: 100px;
+    padding: 80px;
+    /* margin-top: 0px; */
+}
+
+div.button{
+    position: absolute;
+    top: 10%;
+    left:68%;
+    display: block;
+}
+#btn1{
+    margin: 0px;
+    font-size: 3.5vh;
+    padding: 10px;
+}
+#btn2{
+    margin: 0px;
+    font-size: 3.5vh;
+    padding: 10px;
+}
+
+h1{
+    position: absolute;
+    left: 28%;
+    top: 40%;
+    font-size: 6vh;
+}
+
+body{margin: 0px;}
+}
