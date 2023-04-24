@@ -1,7 +1,7 @@
 function changeColor(){
    let b =  document.querySelector('.h')
    
-   if(b.style.color === "black")
+   if(b.style.color !== "red")
    {
        b.style.color = "red";
    }
