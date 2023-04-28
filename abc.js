@@ -15,7 +15,7 @@ function use(){
  
     if(a.style.display === "none")
     {
-       a.style.display =  "flex"
+       a.style.display =  "block"
    }
    else if(a.style.display !== "none")
    {
